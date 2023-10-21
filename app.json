@@ -1,5 +1,5 @@
 {
-    "name": "ᴀɴᴏɴ ダ ᴍᴜsɪᴄ",
+    "name": "𝐑𝐀𝐃𝐇𝐄 ダ 𝐌𝐮𝐬𝐢𝐜",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://te.legra.ph/file/b8a0c1a00db3e57522b53.jpg",
     "keywords": [
@@ -14,12 +14,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "13807651",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "a7f6628b2445ca18074a772f47492e4f",
         "required": true
       },
       "BOT_TOKEN": {
@@ -29,32 +29,32 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "value": "mongodb+srv://kakashi:kakashi@cluster0.jgr06lm.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "",
+        "value": "5491313078",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from @StringFatherBot on Telegram.",
-        "value": "",
+        "value": "BQDSsCMAlWtlMjDQpQUKxwOB4dXyIK-snP8ZVRNgb6D6kbFKmp9h1ZQZK5LCsGtPs70wyr9DA46Gwhk4dQsNnoAflzgdg1qpC3dqHcirK4dTP38EfypWHvoJAvxjaJZ43fY1C9qq88XXvYCj6NOnxtBeat5m2zR8f-D5PmuJ25efUF7F1U96Tj0hVIEUt0d4yLu4ob877DfKbwKr7P6O2fEsTpAJTROodH8PgoWLDtn3g156W9tqCKtdYtU4tIp_qVM5hEcRedSDhxRYxg5Avjafvb1BzTjh1iMYMVAFbJkwm_KN6INg7AwW_MNgn6HYzEkiQzAQtk_dnBUm4WGMc3dwIfnk6wAAAAF7DNCfAA",
         "required": true
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku account's API key",
-        "value": "",
+        "value": "bc91bf78-f992-4509-8dce-6f4632b2c5fc",
         "required": false
       },
       "HEROKU_APP_NAME": {
         "description": "Your heroku app name",
-        "value": "",
+        "value": "RADHA MUSIC",
         "required": false
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "",
+        "value": "1550054357",
         "required": true
       }
     },
